@@ -1,0 +1,15 @@
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\CosmosProj1.dll
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\CosmosProj1.pdb
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.Core.dll
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.Debug.Kernel.dll
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.Hardware.dll
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.System.dll
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.Common.Extensions.dll
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.Core.pdb
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.Hardware.pdb
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.System.pdb
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.Debug.Kernel.pdb
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\bin\Debug\Cosmos.Common.Extensions.pdb
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\obj\Debug\CosmosProj1.csprojResolveAssemblyReference.cache
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\obj\Debug\CosmosProj1.dll
+c:\users\nikkopaolo\documents\visual studio 2013\Projects\CosmosProj1\CosmosProj1\obj\Debug\CosmosProj1.pdb
